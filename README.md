@@ -23,3 +23,5 @@ This project presents a **Power BI dashboard** for analyzing Blinkit’s sales p
 ### 🚀 Outcome
 
 The dashboard delivers **clear, actionable insights** into sales trends, outlet efficiency, and customer satisfaction. It provides a strong foundation for data-driven decision-making in the retail domain.
+<img width="1380" height="784" alt="Screenshot 2025-09-07 095740" src="https://github.com/user-attachments/assets/bab07aa9-0fb0-47ae-b455-c2020eba5373" />
+
